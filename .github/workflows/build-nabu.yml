@@ -29,7 +29,7 @@ permissions:
 
 jobs:
   kernel:
-    runs-on: macos-14
+    runs-on: macos-15
     timeout-minutes: 240
     env:
       MACOS_VERSION: "13.5"
